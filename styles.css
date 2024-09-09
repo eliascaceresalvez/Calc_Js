@@ -50,7 +50,7 @@ button:active{
     width: 100%;
     padding: 20px;
     font-size: 5rem;
-    text-align: right;
+    text-align: left;
     border: none;
     background-color: rgba(0, 0, 0, 0.6);
     color: white;
