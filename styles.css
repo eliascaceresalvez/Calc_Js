@@ -27,6 +27,18 @@ button:active{
     background-color: rgba(0, 0, 0, 0.2);
 }
 
+.operator-btn{
+    background-color: darkorange;
+}
+
+.operator-btn:hover{
+    background-color: rgb(255, 170, 0);
+}
+
+.operator-btn:active{
+    background-color: rgb(255, 190, 50);
+}
+
 #keys{
     display: grid;
     grid-template-columns: repeat(4, 1fr);
